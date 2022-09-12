@@ -24,4 +24,16 @@ entries:
     urls:
     - https://github.com/intel/helm-charts/releases/download/multimodal-data-visualization-3.0.0/multimodal-data-visualization-3.0.0.tgz
     version: 3.0.0
-generated: "2022-08-19T09:38:58.268928642Z"
+  tcs-issuer:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-09-12T13:37:05.255892548Z"
+    description: A Helm chart for Trusted Certificate Service for Kubernetes Platform
+    digest: 31a1c81f812dadf2ff36791074dfdcdc059d869fa51aa4147c591b300a0bb327
+    home: https://github.com/intel/trusted-certificate-issuer
+    name: tcs-issuer
+    type: application
+    urls:
+    - https://github.com/poussa/helm-charts/releases/download/tcs-issuer-0.1.0/tcs-issuer-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-12T13:37:05.255902348Z"
