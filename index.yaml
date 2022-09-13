@@ -26,6 +26,17 @@ entries:
     version: 3.0.0
   tcs-issuer:
   - apiVersion: v2
+    appVersion: 0.2.1
+    created: "2022-09-13T08:50:53.985307093Z"
+    description: A Helm chart for Trusted Certificate Service for Kubernetes Platform
+    digest: fcce49a2173bda408a690785b943e3bb7038a69da685665a87fe2cb6cc5c42cd
+    home: https://github.com/intel/trusted-certificate-issuer
+    name: tcs-issuer
+    type: application
+    urls:
+    - https://github.com/poussa/helm-charts/releases/download/tcs-issuer-0.2.1/tcs-issuer-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
     appVersion: 0.2.0
     created: "2022-09-13T08:48:46.541419823Z"
     description: A Helm chart for Trusted Certificate Service for Kubernetes Platform
@@ -47,4 +58,4 @@ entries:
     urls:
     - https://github.com/poussa/helm-charts/releases/download/tcs-issuer-0.1.0/tcs-issuer-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-13T08:48:46.541432023Z"
+generated: "2022-09-13T08:50:53.985337893Z"
